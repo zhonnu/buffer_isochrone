@@ -1,1 +1,1 @@
-# buffer_isochrone
+This repository is an exercise based on tutorial https://docs.mapbox.com/help/tutorials/get-started-isochrone-api/. 
