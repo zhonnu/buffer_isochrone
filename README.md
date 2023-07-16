@@ -1,1 +1,1 @@
-This repository is an exercise based on tutorial https://docs.mapbox.com/help/tutorials/get-started-isochrone-api/. 
+This repository is an exercise based on tutorial https://docs.mapbox.com/help/tutorials/get-started-isochrone-api/. The final result can be seen at https://zhonnu.github.io/buffer_isochrone/index.html.
